@@ -1,0 +1,18 @@
+.form-body{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+.form-inner-body{
+    height: 50vh;
+    width: 50%;
+    border-style: none;
+    border-radius: 3px;
+    background-color:cornsilk;
+    padding: 20px;
+     /* Centering styles */
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+}
